@@ -140,8 +140,3 @@ class Triangle extends Shape{
 				System.out.println("Radius of cicle is " + a);
 				System.out.println("And its area is " + circle1.area(a) + "\n");
 				}}}}
- 
- 
- 
- 
- 
